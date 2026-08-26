@@ -2,7 +2,7 @@
   "version": 1,
   "kdf": 1,
   "aead": 1,
-  "salt": "ahA7M799qA5/n2uvfdTvDg==",
-  "nonce": "7xpFlt3jZl6y2itf",
-  "ciphertext": "yY1MEGINq2hoWlFIOAvEWxBxea5K3+0PLx+PY1TUpo+Iy8cZ+NltGWgCP6Fpi+Y9LZfJ9/jrXBZRSm1RNwfxBDp6vOiQqMXzEMMHaM8Apeddk7Jw2c4="
+  "salt": "toqG0y1Z42SYFGCLM7Ol+A==",
+  "nonce": "dUJBj3+izD/0a4Xl",
+  "ciphertext": "rVkSDLrEVP+7v2hSs/nUcRESyD7fBVA3H6znKmKZ55Zw7ZPYwUUkqGNr70xKaPIOBlaLxlDw8GWSYywoWYVoE2H/ofLSGe+xkjerB4GhUy5w7+zD5sw="
 }
