@@ -2,7 +2,7 @@
   "version": 1,
   "kdf": 1,
   "aead": 1,
-  "salt": "ZRy8YwCG/3kzOuUzSMTJAw==",
-  "nonce": "x3zbBFIcApgV6w0E",
-  "ciphertext": "2pZn31pwwEL4ZIkj+891mn/wI6mfWLrqnYfBunNG/bmGHAKJ8nE/028tBIUFCXEv/FP/8ac1ibWjGsdcLgpT0DnOtDs5LGHMWvTr4vAbFQZmrmUzfwtF7CrUFYniMpIjk470ZX/Vcrnixg9lxJgp9eVWhSHvWv6ZbE1dRe46+U2I8L6Uqxd8WpVJUOe73BKFRVlnKDUphICSAEPTU22tfzsmxjM20lv8BDYAPTqAAxp1MBikIVhQ5x3hPZdVOKGNptmRxs0eOD1X0o1/VLmkhKEzrpgeHzKaAC+/DNXJW/LpFqnnU0I2aO4Pu4BxKvsrHCfM9HbiTfFVt8s16661IiRFKOtIXtPkB8H59eWqPSCc62kBG/8cEy0MbreOsoV2IB4iWQ=="
+  "salt": "27/3Vkiin1eOv94kFwbatQ==",
+  "nonce": "0xkVgDyJPY11HArL",
+  "ciphertext": "gs4QNmlL3TJI0qmq0oIFa11CAybiMw2h2yCh6WgBwPZXQq6hW5A8oKBhcsIcvg14KlGBpADz7lb5cLcjQtqmiH/HF9/OxhALMyU0FjOfuxDMns4Dq+CHxDyyuUgggSu8wDNjhikv3iGdzFgh/Bh+AlDp3W1cPImD2lwqK1gQT1fjozeKIObZSZ/oqcEyjuD181KKbhlUm3r7XtsXqR4erdU+i0vyhXnR9tfteOjDkI+ZzZAO+sFAU6988kbF3G4rnJ8Y4CMZt4NGTBGZ9NXrnhk/1ZEzGxpe8hmvnn6RI/uPis/rk/BuYDbzS/a0qDTYzUV8WhCah4+BSYtC0FsVNaJiawndA61WjXkzfye9kkDCVMjc/mDfZdpYLZe9tw24AMi7iA=="
 }
