@@ -1,0 +1,9 @@
+{
+  "ackReadReceiptIds": "",
+  "body": "this is another message",
+  "ciphertext": "{\"wrappedKey\":\"Z+OlhH/SoiKKVCwguzz0Jyr85vi/1ip+MASVotAZ389Ye+RO25syis3DxqS1QYR2Wux8jN8j8AR9FR5ur21TDNKPl2XJtYwylx6qKfAL0I85yUlzKEp+K3IzXzxxOVnJPhSt5GCH2aLm3meieBkdVjsIXuOJAetPM4g2wmoUuB2v8QDKhNq1Z5VEw31Dc24IWhUKKNWbWTSLMqz7DasAl15nGkxdwofCsHnOonU2trntFH0yhRgrEyvkdnQ47Zu9AOz4Cg8G1h5Wmm5pvIeCJegVkciLI5a69/+Qg0S4o0jvB+mXj/bqZ2VhO5+MjT2XK1CBd4eiiWrXQ7ZrhalWXq6SKkGxXHrbRMq5aIb/K9edv4BzyAGvz1FGThasRE+EDwJxxTXCd0NlLPXo/4W3xsElcOqdWSDFMPRmZTLBaqcwRAqIXAzKpxZ7Rb4J+u1YffZcCuzoPajA7Zpq82wGNtsoGmNS4fDpEXK9/e9Nj7xbuyo38ySkOsL6eMWxxtd3qILDqXiSPLYalVfrICR+m1mHfTqZSMiPm5arrLCffkGqV/RDQ5RrnioJl6MVsznVZ9vLIjeVuTFwKf+r64Z9P/rKbKhFElbQY/960buBqnohnrDYlkm68iSyDSNXBAAFiU5ZKAVDtEAp9Af8hxyb2fywahZRLdKMY0aFYqrD+Ls=\",\"nonce\":\"3gtOX8TSxDIH7bHy\",\"ciphertext\":\"/qqFSevk6EbPLlymojAbPefAkBg3Ze0OVgF8x3/jYqmtjNM13CWm\"}",
+  "createdAt": 1788679381248,
+  "id": "05491b52-8dc8-4c60-9c47-69748a1ed3af",
+  "recipientId": "9107eab3-8f9f-414b-9e39-306e6836bc05",
+  "senderId": "cc7f0c1f-b263-4242-aafc-daddbff75fee"
+}
