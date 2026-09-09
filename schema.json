@@ -1,6 +1,6 @@
 {
   "app": "messaging",
-  "version": 2,
+  "version": 3,
   "types": [
     {
       "name": "ProfilePublic",
@@ -19,6 +19,11 @@
           "name": "publicKey",
           "type": "String",
           "required": true
+        },
+        {
+          "name": "protocolBundles",
+          "type": "String",
+          "required": false
         }
       ],
       "nested": [],
@@ -52,6 +57,11 @@
           "name": "privateKey",
           "type": "String",
           "required": true
+        },
+        {
+          "name": "protocolSecrets",
+          "type": "String",
+          "required": false
         }
       ],
       "nested": [],
@@ -325,6 +335,34 @@
           "name": "updatedAt",
           "type": "Int",
           "required": false
+        }
+      ],
+      "nested": [],
+      "relations": [],
+      "parent": null
+    },
+    {
+      "name": "ProtocolSession",
+      "storage": {
+        "kind": "collection",
+        "dir": "protocol-sessions"
+      },
+      "encrypted": true,
+      "fields": [
+        {
+          "name": "id",
+          "type": "Id",
+          "required": true
+        },
+        {
+          "name": "contactId",
+          "type": "Id",
+          "required": true
+        },
+        {
+          "name": "state",
+          "type": "String",
+          "required": true
         }
       ],
       "nested": [],
